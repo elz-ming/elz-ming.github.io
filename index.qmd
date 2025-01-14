@@ -1,7 +1,0 @@
----
-title: "index"
-format: html
----
-
-# Test
-This should be shown
