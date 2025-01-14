@@ -13,8 +13,9 @@ website:
         text: Project
       - href: hobby.qmd
         text: Hobby
+      - href: reflection.qmd
+        text: Reflection
         
-
 format:
   html:
     theme: cosmo
