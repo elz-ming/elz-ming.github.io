@@ -1,0 +1,27 @@
+# Overview
+I have two hobbies:  
+- Playing Squadbusters  
+- Watching movie  
+
+## Playing Squadbusters
+![](image/squadbusters.jpg){width="50%" height="50%" fig-align="center" .lightbox}  
+
+I usually play this game before, after and during class.
+
+### What is this game?
+Squad Buster is the latest game released by giant game company Supercell
+
+### Who do I play with?
+I usually play this game alone, but sometimes I would play with my bestfriend Lionel or my cousin Loh.
+---
+
+## Watching movie
+![](image/avengers.jpg){width="50%" height="50%" fig-align="center" .lightbox}  
+
+I am a super Marvel fan
+
+### My favourite movie
+  ![](image/thor.jpg){width="50%" height="50%" fig-align="center" .lightbox}  
+
+My favourite movie is the 3^rd^ Thor movie, Thor: Ragnarok.
+---

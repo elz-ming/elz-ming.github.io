@@ -1,11 +1,23 @@
+# ![](image/edmund.jpg){width=160px style="border-radius: 50%; float: left; margin-right: 20px;"} **Lin Zhenming (林震铭)**
+
+**ASEAN Scholar, Provost's List 23/24**  
+Bachelor's Degree in Applied Computing with Specialization in Fintech   
+Singapore Institute of Technology (SIT)  
+**Email:** [elz.work22@gmail.com](mailto:elz.work22@gmail.com), [2302993@sit.singaporetech.edu.sg](mailto:2302993@sit.singaporetech.edu.sg)
+
 ---
-title: "temp_website"
----
 
-This is a Quarto website.
+## Short Bio
+I am an aspiring tech enthusiast in the Fintech sector
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
+**2015 - 2019** : Chung Ling High School![](image/clhs-logo.png){width="5%" height="5%" fig-align="left" .lightbox}  
+**2021 - 2022** : Taylor's College![](image/taylors-logo.png){width="5%" height="5%" fig-align="left" .lightbox}  
+**2023 - 2026** : Singapore Institute of Technology![](image/sit-logo.png){width="5%" height="5%" fig-align="left" .lightbox}  
 
-```{r}
-1 + 1
-```
+## Experience
+**2023** : Data Science Intern - Setel Venture Sdn. Bhd.![](image/setel-logo.png){width="5%" height="5%" fig-align="left" .lightbox}  
+**2024** : Product Management Intern - Asia Verify Pte. Ltd.![](image/asiaverify-logo.jpeg){width="5%" height="5%" fig-align="left" .lightbox}  
+**Current**:  
+- Software Engineer Volunteer - Mono SG![](image/mono-logo.png){width="5%" height="5%" fig-align="left" .lightbox}  
+- Research Assistant (Data Analyst) - Singapore Institute of Technology![](image/sit-logo.png){width="5%" height="5%" fig-align="left" .lightbox}  

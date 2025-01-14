@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": " Lin Zhenming (林震铭)",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "ASEAN Scholar, Provost’s List 23/24\nBachelor’s Degree in Applied Computing with Specialization in Fintech\nSingapore Institute of Technology (SIT)\nEmail: elz.work22@gmail.com, 2302993@sit.singaporetech.edu.sg\n\n\n\nI am an aspiring tech enthusiast in the Fintech sector\n\n\n\n2015 - 2019 : Chung Ling High School\n2021 - 2022 : Taylor’s College\n2023 - 2026 : Singapore Institute of Technology\n\n\n\n2023 : Data Science Intern - Setel Venture Sdn. Bhd.\n2024 : Product Management Intern - Asia Verify Pte. Ltd.\nCurrent:\n- Software Engineer Volunteer - Mono SG\n- Research Assistant (Data Analyst) - Singapore Institute of Technology"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,82 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#guang-hua-华光",
+    "href": "index.html#guang-hua-华光",
+    "title": "ELZ Ming",
+    "section": "",
+    "text": "Associate Professor\nInfocomm Technology (ICT) Cluster\nSingapore Institute of Technology (SIT)\n1 Punggol Coast Road, Singapore 828608\nEmail: ghua@ieee.org, guang.hua@singaporetech.edu.sg"
+  },
+  {
+    "objectID": "index.html#lin-zhenming-林震铭",
+    "href": "index.html#lin-zhenming-林震铭",
+    "title": "Short Bio",
+    "section": "",
+    "text": "ASEAN Scholar, Provost’s List 23/24\nBachelor’s Degree in Applied Computing with Specialization in Fintech\nSingapore Institute of Technology (SIT)\nEmail: elz.work22@gmail.com, 2302993@sit.singaporetech.edu.sg"
+  },
+  {
+    "objectID": "index.html#short-bio",
+    "href": "index.html#short-bio",
+    "title": " Lin Zhenming (林震铭)",
+    "section": "",
+    "text": "I am an aspiring tech enthusiast in the Fintech sector"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": " Lin Zhenming (林震铭)",
+    "section": "",
+    "text": "2015 - 2019 : Chung Ling High School\n2021 - 2022 : Taylor’s College\n2023 - 2026 : Singapore Institute of Technology"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": " Lin Zhenming (林震铭)",
+    "section": "",
+    "text": "2023 : Data Science Intern - Setel Venture Sdn. Bhd.\n2024 : Product Management Intern - Asia Verify Pte. Ltd.\nCurrent:\n- Software Engineer Volunteer - Mono SG\n- Research Assistant (Data Analyst) - Singapore Institute of Technology"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Overview",
+    "section": "",
+    "text": "I have two projects to share:\n- Smart Fridge Web App\n- Paper Trading Web App\n\n\n\nLink : WAZY\n\n\nThis is a project made for the hackathon “MongoDB AI Hackathon: Code for a Cause”.\n\n\n\nThis project uses LLM to read recipe database and generate recipes based on the user’s fridge content.\n\n\n\n\nLin Zhenming\nShaun Liew\n\n\n\n\n\n\nLink : Intelli-Foods\n\n\nThis is a project made for the module INF2003 Database Systems.\n\n\n\nThis project is a demonstration of usage of both Relational (PostgreSQL) and Non-Relational (MongoDB) database in performing CRUD operations onto finance data queried from Yahoo Finance.\n\n\n\n\nLin Zhenming\nManesh Kaliannan\nToh Zhen Wei\nHow Ai Ying\nJasbir Kaur\nChong Ying Ee"
+  },
+  {
+    "objectID": "project.html#smart-fridge-web-app",
+    "href": "project.html#smart-fridge-web-app",
+    "title": "Overview",
+    "section": "",
+    "text": "Link : WAZY\n\n\nThis is a project made for the hackathon “MongoDB AI Hackathon: Code for a Cause”.\n\n\n\nThis project uses LLM to read recipe database and generate recipes based on the user’s fridge content.\n\n\n\n\nLin Zhenming\nShaun Liew"
+  },
+  {
+    "objectID": "project.html#paper-trading-web-app",
+    "href": "project.html#paper-trading-web-app",
+    "title": "Overview",
+    "section": "",
+    "text": "Link : Intelli-Foods\n\n\nThis is a project made for the module INF2003 Database Systems.\n\n\n\nThis project is a demonstration of usage of both Relational (PostgreSQL) and Non-Relational (MongoDB) database in performing CRUD operations onto finance data queried from Yahoo Finance.\n\n\n\n\nLin Zhenming\nManesh Kaliannan\nToh Zhen Wei\nHow Ai Ying\nJasbir Kaur\nChong Ying Ee"
+  },
+  {
+    "objectID": "hobby.html",
+    "href": "hobby.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Hobby"
+  },
+  {
+    "objectID": "hobby.html#playing-squadbusters",
+    "href": "hobby.html#playing-squadbusters",
+    "title": "Overview",
+    "section": "Playing Squadbusters",
+    "text": "Playing Squadbusters\n\n\n\n\n\nI usually play this game before, after and during class.\n\nWhat is this game?\nSquad Buster is the latest game released by giant game company Supercell\n\n\nWho do I play with?\nI usually play this game alone, but sometimes I would play with my bestfriend Lionel or my cousin Loh."
+  },
+  {
+    "objectID": "hobby.html#watching-movie",
+    "href": "hobby.html#watching-movie",
+    "title": "Overview",
+    "section": "Watching movie",
+    "text": "Watching movie\n\n\n\n\n\nI am a super Marvel fan\n\nMy favourite movie\n\n\n\n\n\nMy favourite movie is the 3rd Thor movie, Thor: Ragnarok."
   }
 ]

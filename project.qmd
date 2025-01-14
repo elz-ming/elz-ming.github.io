@@ -1,0 +1,36 @@
+# Overview
+I have two projects to share:   
+- Smart Fridge Web App   
+- Paper Trading Web App   
+
+## Smart Fridge Web App
+Link : [WAZY](https://wazy.vercel.app/)
+
+### Introduction
+This is a project made for the hackathon "MongoDB AI Hackathon: Code for a Cause".
+
+### About the Project
+This project uses LLM to read recipe database and generate recipes based on the user's fridge content.
+
+### Core Contributors
+- Lin Zhenming
+- Shaun Liew
+---
+
+## Paper Trading Web App
+Link : [Intelli-Foods](https://intelli-foods.vercel.app/)
+
+### Introduction
+This is a project made for the module INF2003 Database Systems.
+
+### About the Project
+This project is a demonstration of usage of both Relational (PostgreSQL) and Non-Relational (MongoDB) database in performing CRUD operations onto finance data queried from Yahoo Finance.
+
+### Core Contributors
+- Lin Zhenming
+- Manesh Kaliannan
+- Toh Zhen Wei
+- How Ai Ying
+- Jasbir Kaur
+- Chong Ying Ee
+---
