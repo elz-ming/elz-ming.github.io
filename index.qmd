@@ -1,8 +1,0 @@
----
-title: "index"
-format: html
----
-
-# Testing
-
-This is the story of my life
