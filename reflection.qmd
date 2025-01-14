@@ -1,0 +1,10 @@
+# Overview
+This page entails my "Reflection on the use of GenAI".
+
+## Reflection
+If I recall correctly, GenAI became a mainstream tool at some point in January 2023, which is coincidentally the first internship of my tech career. At that point of time, I have slightly mixed feelings in using GenAI to seek advice or generate work, as the question that lingers in my mind would be "I've done a great work, but is it my work?"
+
+However, over time, I've observed an obvious result from my usage of GenAI : my work efficient increased. I realized, instead of spending time on the nitty-gritty and detailed syntaxes, I was able to spend more time thinking, considering and making high-level decisions. Once the decision is made, I would turn to GenAI's to seek advice and detailed step-by-step instructions.
+
+## Conclusion
+I believe GenAI is a technology meant to improve society as a whole. As long as the tool is being used mindfully, society would observe a positive impact in the long-run.

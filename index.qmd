@@ -21,3 +21,8 @@ I am an aspiring tech enthusiast in the Fintech sector
 **Current**:  
 - Software Engineer Volunteer - Mono SG![](image/mono-logo.png){width="5%" height="5%" fig-align="left" .lightbox}  
 - Research Assistant (Data Analyst) - Singapore Institute of Technology![](image/sit-logo.png){width="5%" height="5%" fig-align="left" .lightbox}  
+
+## How I entered the tech sector
+I stumbled into the tech sector, fortunately by winning the "Top 10 Award" in my first-ever hackathon : RHB Get Your Hack On, ASEAN Edition.
+<br>
+{{< video https://youtu.be/7uTW8ZFKD-E width="1200" height="450" >}}

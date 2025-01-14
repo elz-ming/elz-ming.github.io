@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": " Lin Zhenming (林震铭)",
     "section": "",
-    "text": "ASEAN Scholar, Provost’s List 23/24\nBachelor’s Degree in Applied Computing with Specialization in Fintech\nSingapore Institute of Technology (SIT)\nEmail: elz.work22@gmail.com, 2302993@sit.singaporetech.edu.sg\n\n\n\nI am an aspiring tech enthusiast in the Fintech sector\n\n\n\n2015 - 2019 : Chung Ling High School\n2021 - 2022 : Taylor’s College\n2023 - 2026 : Singapore Institute of Technology\n\n\n\n2023 : Data Science Intern - Setel Venture Sdn. Bhd.\n2024 : Product Management Intern - Asia Verify Pte. Ltd.\nCurrent:\n- Software Engineer Volunteer - Mono SG\n- Research Assistant (Data Analyst) - Singapore Institute of Technology"
+    "text": "ASEAN Scholar, Provost’s List 23/24\nBachelor’s Degree in Applied Computing with Specialization in Fintech\nSingapore Institute of Technology (SIT)\nEmail: elz.work22@gmail.com, 2302993@sit.singaporetech.edu.sg\n\n\n\nI am an aspiring tech enthusiast in the Fintech sector\n\n\n\n2015 - 2019 : Chung Ling High School\n2021 - 2022 : Taylor’s College\n2023 - 2026 : Singapore Institute of Technology\n\n\n\n2023 : Data Science Intern - Setel Venture Sdn. Bhd.\n2024 : Product Management Intern - Asia Verify Pte. Ltd.\nCurrent:\n- Software Engineer Volunteer - Mono SG\n- Research Assistant (Data Analyst) - Singapore Institute of Technology\n\n\n\nI stumbled into the tech sector, fortunately by winning the “Top 10 Award” in my first-ever hackathon : RHB Get Your Hack On, ASEAN Edition."
   },
   {
     "objectID": "about.html",
@@ -53,7 +53,7 @@
     "href": "project.html",
     "title": "Overview",
     "section": "",
-    "text": "I have two projects to share:\n- Smart Fridge Web App\n- Paper Trading Web App\n\n\n\nLink : WAZY\n\n\nThis is a project made for the hackathon “MongoDB AI Hackathon: Code for a Cause”.\n\n\n\nThis project uses LLM to read recipe database and generate recipes based on the user’s fridge content.\n\n\n\n\nLin Zhenming\nShaun Liew\n\n\n\n\n\n\nLink : Intelli-Foods\n\n\nThis is a project made for the module INF2003 Database Systems.\n\n\n\nThis project is a demonstration of usage of both Relational (PostgreSQL) and Non-Relational (MongoDB) database in performing CRUD operations onto finance data queried from Yahoo Finance.\n\n\n\n\nLin Zhenming\nManesh Kaliannan\nToh Zhen Wei\nHow Ai Ying\nJasbir Kaur\nChong Ying Ee"
+    "text": "I have two projects to share:\n- Smart Fridge Web App\n- Paper Trading Web App\n\n\nLink : WAZY\n\n\nThis is a project made for the hackathon “MongoDB AI Hackathon: Code for a Cause”.\n\n\n\nThis project uses LLM to read recipe database and generate recipes based on the user’s fridge content.\n\n\n\n\nLin Zhenming\nShaun Liew\n\n\n\n\n\n\nLink : Intelli-Foods\n\n\nThis is a project made for the module INF2003 Database Systems.\n\n\n\nThis project is a demonstration of usage of both Relational (PostgreSQL) and Non-Relational (MongoDB) database in performing CRUD operations onto finance data queried from Yahoo Finance.\n\n\n\n\nLin Zhenming\nManesh Kaliannan\nToh Zhen Wei\nHow Ai Ying\nJasbir Kaur\nChong Ying Ee"
   },
   {
     "objectID": "project.html#smart-fridge-web-app",
@@ -74,20 +74,48 @@
     "href": "hobby.html",
     "title": "Overview",
     "section": "",
-    "text": "Hobby"
+    "text": "I have two hobbies:\n- Playing Squadbusters\n- Watching movie\n\n\n\n\n\n\n\nI usually play this game before, after and during class.\n\n\nSquad Buster is the latest game released by giant game company Supercell\n\n\n\nI usually play this game alone, but sometimes I would play with my bestfriend Lionel or my cousin Loh.\n\n\n\n\n\n\n\n\n\n\nI am a super Marvel fan\n\n\n\n\n\n\n\nMy favourite movie is the 3rd Thor movie, Thor: Ragnarok."
   },
   {
     "objectID": "hobby.html#playing-squadbusters",
     "href": "hobby.html#playing-squadbusters",
     "title": "Overview",
-    "section": "Playing Squadbusters",
-    "text": "Playing Squadbusters\n\n\n\n\n\nI usually play this game before, after and during class.\n\nWhat is this game?\nSquad Buster is the latest game released by giant game company Supercell\n\n\nWho do I play with?\nI usually play this game alone, but sometimes I would play with my bestfriend Lionel or my cousin Loh."
+    "section": "",
+    "text": "I usually play this game before, after and during class.\n\n\nSquad Buster is the latest game released by giant game company Supercell\n\n\n\nI usually play this game alone, but sometimes I would play with my bestfriend Lionel or my cousin Loh."
   },
   {
     "objectID": "hobby.html#watching-movie",
     "href": "hobby.html#watching-movie",
     "title": "Overview",
-    "section": "Watching movie",
-    "text": "Watching movie\n\n\n\n\n\nI am a super Marvel fan\n\nMy favourite movie\n\n\n\n\n\nMy favourite movie is the 3rd Thor movie, Thor: Ragnarok."
+    "section": "",
+    "text": "I am a super Marvel fan\n\n\n\n\n\n\n\nMy favourite movie is the 3rd Thor movie, Thor: Ragnarok."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Overview",
+    "section": "",
+    "text": "This page entails my “Reflection on the use of GenAI”.\n\n\nIf I recall correctly, GenAI became a mainstream tool at some point in January 2023, which is coincidentally the first internship of my tech career. At that point of time, I have slightly mixed feelings in using GenAI to seek advice or generate work, as the question that lingers in my mind would be “I’ve done a great work, but is it my work?”\nHowever, over time, I’ve observed an obvious result from my usage of GenAI : my work efficient increased. I realized, instead of spending time on the nitty-gritty and detailed syntaxes, I was able to spend more time thinking, considering and making high-level decisions. Once the decision is made, I would turn to GenAI’s to seek advice and detailed step-by-step instructions.\n\n\n\nI believe GenAI is a technology meant to improve society as a whole. As long as the tool is being used mindfully, society would observe a positive impact in the long-run."
+  },
+  {
+    "objectID": "reflection.html#reflection",
+    "href": "reflection.html#reflection",
+    "title": "Overview",
+    "section": "",
+    "text": "If I recall correctly, GenAI became a mainstream tool at some point in January 2023, which is coincidentally the first internship of my tech career. At that point of time, I have slightly mixed feelings in using GenAI to seek advice or generate work, as the question that lingers in my mind would be “I’ve done a great work, but is it my work?”\nHowever, over time, I’ve observed an obvious result from my usage of GenAI : my work efficient increased. I realized, instead of spending time on the nitty-gritty and detailed syntaxes, I was able to spend more time thinking, considering and making high-level decisions. Once the decision is made, I would turn to GenAI’s to seek advice and detailed step-by-step instructions."
+  },
+  {
+    "objectID": "reflection.html#conclusion",
+    "href": "reflection.html#conclusion",
+    "title": "Overview",
+    "section": "",
+    "text": "I believe GenAI is a technology meant to improve society as a whole. As long as the tool is being used mindfully, society would observe a positive impact in the long-run."
+  },
+  {
+    "objectID": "index.html#how-i-entered-the-tech-sector",
+    "href": "index.html#how-i-entered-the-tech-sector",
+    "title": " Lin Zhenming (林震铭)",
+    "section": "",
+    "text": "I stumbled into the tech sector, fortunately by winning the “Top 10 Award” in my first-ever hackathon : RHB Get Your Hack On, ASEAN Edition."
   }
 ]
